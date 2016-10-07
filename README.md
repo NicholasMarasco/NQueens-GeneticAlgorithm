@@ -1,2 +1,2 @@
-# NQueens-GeneticAlgorithm
-Genetic algorithm solution to N-Queens problem
+# N-Queens Genetic Algorithm Solution
+  Title says it all
